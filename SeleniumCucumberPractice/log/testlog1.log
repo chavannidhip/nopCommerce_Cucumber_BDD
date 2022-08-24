@@ -1,0 +1,317 @@
+2022-08-23 15:08:27,627 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:08:28,717 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:08:28,849 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:08:31,516 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:08:32,544 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 15:08:36,954 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-23 15:08:38,005 [main] INFO nopCommerce Cucumber Selenium Framework - ************Adding Customer  ********
+2022-08-23 15:08:39,855 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:08:40,674 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:08:40,795 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:08:47,367 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:08:48,391 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 15:08:51,718 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-23 15:08:54,750 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:08:55,545 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:08:55,665 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:08:58,269 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:08:59,284 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 15:09:10,670 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-23 15:09:12,734 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using name********
+2022-08-23 15:09:13,668 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:09:14,506 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:09:14,625 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:09:17,052 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:09:17,089 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 15:09:18,210 [main] INFO nopCommerce Cucumber Selenium Framework - ************Cliked on Logout********
+2022-08-23 15:09:19,234 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 15:09:20,059 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:09:20,971 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:09:21,095 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:09:23,686 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:09:23,711 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 15:09:24,581 [main] INFO nopCommerce Cucumber Selenium Framework - ************Cliked on Logout********
+2022-08-23 15:09:25,604 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 15:09:26,441 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:09:27,429 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:09:27,557 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:09:28,016 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:09:28,027 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Failed ********
+2022-08-23 15:57:07,802 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:57:09,055 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:57:09,184 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:57:11,943 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:57:12,965 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 15:57:17,714 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-23 15:57:21,188 [main] INFO nopCommerce Cucumber Selenium Framework - ************Adding Customer  ********
+2022-08-23 15:57:22,541 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-23 15:57:24,584 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-23 15:57:24,607 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-23 15:57:25,478 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:57:26,395 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:57:26,523 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:57:28,899 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:57:29,920 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 15:57:33,114 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-23 15:57:36,131 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:57:36,908 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:57:37,028 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:57:39,646 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:57:40,671 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 15:57:43,974 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-23 15:57:46,040 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using name********
+2022-08-23 15:57:46,934 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:57:47,774 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:57:47,891 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:57:50,546 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:57:50,576 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 15:57:51,306 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-23 15:57:52,318 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 15:57:53,164 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:57:53,997 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:57:54,120 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:57:56,511 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:57:56,528 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 15:57:57,584 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-23 15:57:58,608 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 15:57:59,475 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 15:58:00,088 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 15:58:00,209 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 15:58:00,646 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 15:58:00,653 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Failed ********
+2022-08-23 16:05:50,320 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 16:05:51,177 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 16:05:51,302 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 16:05:53,684 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 16:05:54,703 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 16:06:00,497 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-23 16:06:04,371 [main] INFO nopCommerce Cucumber Selenium Framework - ************Add new Customer page  ********
+2022-08-23 16:06:05,385 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-23 16:06:07,228 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-23 16:06:07,248 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-23 16:06:08,184 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 16:06:08,930 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 16:06:09,051 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 16:06:11,537 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 16:06:12,548 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 16:06:15,756 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-23 16:06:18,709 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 16:06:19,695 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 16:06:19,820 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 16:06:22,780 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 16:06:23,791 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-23 16:06:27,459 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-23 16:06:29,515 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using name********
+2022-08-23 16:06:30,524 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 16:06:31,506 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 16:06:31,631 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 16:06:34,340 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 16:06:34,368 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 16:06:35,256 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-23 16:06:36,273 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 16:06:37,083 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 16:06:39,629 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 16:06:39,745 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 16:06:42,227 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 16:06:42,245 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 16:06:43,032 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-23 16:06:44,048 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-23 16:06:44,877 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-23 16:06:47,772 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-23 16:06:47,899 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-23 16:06:48,338 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-23 16:06:48,346 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Failed ********
+2022-08-24 06:26:58,773 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-24 06:26:59,657 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:26:59,781 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:27:02,139 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:27:03,163 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:27:07,122 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-24 06:27:08,084 [main] INFO nopCommerce Cucumber Selenium Framework - ************Add new Customer page  ********
+2022-08-24 06:27:09,112 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-24 06:27:10,575 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-24 06:27:10,612 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-24 06:27:11,527 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-24 06:27:12,355 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:27:12,484 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:27:15,185 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:27:16,204 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:27:19,475 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-24 06:27:22,443 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-24 06:27:23,222 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:27:23,351 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:27:25,965 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:27:26,974 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:27:30,983 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-24 06:27:33,044 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using name********
+2022-08-24 06:27:33,956 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-24 06:27:34,706 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:27:34,834 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:27:37,117 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:27:37,154 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:27:37,901 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 06:27:38,909 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:27:39,709 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-24 06:27:40,491 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:27:40,621 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:27:54,317 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:27:54,343 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:27:55,051 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 06:27:56,073 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:27:57,050 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-24 06:27:57,800 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:27:57,927 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:27:58,340 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:27:58,348 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Failed ********
+2022-08-24 06:28:54,818 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:28:55,677 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:28:55,806 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:28:58,353 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:28:59,366 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:29:04,140 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-24 06:29:05,771 [main] INFO nopCommerce Cucumber Selenium Framework - ************Add new Customer page  ********
+2022-08-24 06:29:06,792 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-24 06:29:08,270 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-24 06:29:08,290 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-24 06:29:09,448 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:29:11,003 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:29:11,130 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:29:14,247 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:29:15,257 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:29:18,988 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-24 06:29:22,043 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:29:22,970 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:29:23,108 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:29:25,627 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:29:26,641 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:29:30,203 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-24 06:29:32,264 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using name********
+2022-08-24 06:29:33,322 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:29:34,292 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:29:34,409 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:29:37,793 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:29:37,821 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:29:38,554 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 06:29:39,583 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:29:40,569 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:29:41,551 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:29:41,673 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:29:43,910 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:29:43,926 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:29:44,864 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 06:29:45,878 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:29:46,846 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:29:47,677 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:29:47,806 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:29:48,250 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:29:48,256 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Failed ********
+2022-08-24 06:40:14,143 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:40:15,075 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:40:15,195 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:40:17,457 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:40:18,477 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:40:22,649 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-24 06:40:24,573 [main] INFO nopCommerce Cucumber Selenium Framework - ************Add new Customer page  ********
+2022-08-24 06:40:25,590 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-24 06:40:27,053 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-24 06:40:27,074 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-24 06:40:30,046 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:40:30,886 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:40:31,016 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:40:33,325 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:40:33,354 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:40:34,073 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 06:40:35,089 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:42:48,588 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:43:05,048 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:43:05,186 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:43:07,523 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:43:08,545 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:43:12,078 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-24 06:43:16,823 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:43:17,680 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:43:17,811 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:43:20,115 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:43:21,134 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 06:43:24,473 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using email********
+2022-08-24 06:43:26,531 [main] INFO nopCommerce Cucumber Selenium Framework - ************Searching for customer using name********
+2022-08-24 06:43:29,096 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:43:30,056 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:43:30,184 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:43:32,235 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:43:32,262 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:43:33,021 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 06:43:34,037 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 06:43:36,501 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 06:43:37,360 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 06:43:37,489 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 06:43:37,901 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 06:43:37,909 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Failed ********
+2022-08-24 07:02:55,192 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 07:02:56,080 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 07:02:56,209 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 07:02:58,463 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 07:02:59,478 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 07:03:03,602 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-24 07:03:04,640 [main] INFO nopCommerce Cucumber Selenium Framework - ************Add new Customer page  ********
+2022-08-24 07:03:05,657 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-24 07:03:07,214 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-24 07:03:07,242 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-24 07:03:09,881 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 07:03:10,607 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 07:03:10,737 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 07:03:13,118 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 07:03:13,146 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 07:03:13,906 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 07:03:14,931 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 07:17:23,892 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 07:17:24,796 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 07:17:24,939 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 07:17:27,483 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 07:17:28,503 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 07:17:32,587 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-24 07:17:33,532 [main] INFO nopCommerce Cucumber Selenium Framework - ************Add new Customer page  ********
+2022-08-24 07:17:34,543 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-24 07:17:36,068 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-24 07:17:36,096 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-24 07:17:38,813 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 07:17:39,753 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 07:17:39,881 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 07:17:42,243 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 07:17:42,293 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 07:17:43,027 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 07:17:44,050 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 07:25:32,944 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 07:25:33,756 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 07:25:33,877 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 07:25:36,272 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 07:25:37,285 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 07:25:41,389 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-24 07:25:42,302 [main] INFO nopCommerce Cucumber Selenium Framework - ************Add new Customer page  ********
+2022-08-24 07:25:43,321 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-24 07:25:44,914 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-24 07:25:44,940 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-24 07:25:47,630 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Edge browser ********
+2022-08-24 07:25:48,286 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 07:25:48,412 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 07:25:50,667 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 07:25:50,693 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 07:25:51,690 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 07:25:52,705 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 09:12:03,740 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-24 09:12:04,826 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 09:12:04,944 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 09:12:07,685 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 09:12:08,710 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Customer Menu ********
+2022-08-24 09:12:13,040 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on Add new button ********
+2022-08-24 09:12:14,130 [main] INFO nopCommerce Cucumber Selenium Framework - ************Add new Customer page  ********
+2022-08-24 09:12:15,148 [main] INFO nopCommerce Cucumber Selenium Framework - ************ Adding Customer details ********
+2022-08-24 09:12:16,954 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicking on save button ********
+2022-08-24 09:12:17,014 [main] INFO nopCommerce Cucumber Selenium Framework - ************New customer added ********
+2022-08-24 09:12:17,964 [main] INFO nopCommerce Cucumber Selenium Framework - ************Launching Chrome browser ********
+2022-08-24 09:12:18,982 [main] INFO nopCommerce Cucumber Selenium Framework - ************Opening URL ********
+2022-08-24 09:12:19,102 [main] INFO nopCommerce Cucumber Selenium Framework - ************Providing login details ********
+2022-08-24 09:12:21,683 [main] INFO nopCommerce Cucumber Selenium Framework - ************Started logging process ********
+2022-08-24 09:12:21,719 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
+2022-08-24 09:12:22,764 [main] INFO nopCommerce Cucumber Selenium Framework - ************Clicked on Logout********
+2022-08-24 09:12:23,791 [main] INFO nopCommerce Cucumber Selenium Framework - ************Login Passed ********
